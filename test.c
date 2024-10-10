@@ -46,11 +46,11 @@ void populate_zoomed_image(struct image_s *image, struct image_s *zoomed){
 }
 
 
-void verify_color(int r, int g, int b){
-    for(int m = 0; m < 3; m++){
-        if(m == 0){
+// void verify_color(int r, int g, int b){
+//     for(int m = 0; m < 3; m++){
+//         if(m == 0){
            
-        }
-    }
-}
+//         }
+//     }
+// }
     
